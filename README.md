@@ -2,6 +2,11 @@
 
 # FastSpreadingGrass
 
-Makes grass able to spread seeds quicker. They now can emits seeds after 1 day instead of 3 days normally.
+Makes grass able to spread seeds quicker. They now can emit seeds after 1 day instead of 3 days normally.
 
 In the end, it makes grass regrowing quicker after fires or winter; *you know for those time where the whole map seems deprived of any grass ...*
+
+## Release 
+ 
+- [Download](https://github.com/kaptain-kavern/FastSpreadingGrass/releases/latest) 
+- [Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=1228372243) 
