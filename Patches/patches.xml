@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+
+	<Operation Class="PatchOperationSequence">
+		<success>Always</success>
+		<operations>
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName = "PlantGrass"]/plant/reproduceMtbDays</xpath>
+				<value>
+					<reproduceMtbDays>1</reproduceMtbDays>
+				</value>
+			</li>
+			<li Class="PatchOperationReplace">
+				<xpath>Defs/ThingDef[defName = "PlantTallGrass"]/plant/reproduceMtbDays</xpath>
+				<value>
+					<reproduceMtbDays>2</reproduceMtbDays>
+				</value>
+			</li>
+		</operations>
+	</Operation>
+	
+</Patch>

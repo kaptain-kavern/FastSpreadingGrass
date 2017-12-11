@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+<name>Fast Spreading Grass</name>
+<author>KapTaiN_KaVerN</author>
+<targetVersion>0.18.0</targetVersion>
+<description>Makes grass able to spread seeds quicker. They now can emits seeds after 1 day instead of 3 days normally</description>
+</ModMetaData>
