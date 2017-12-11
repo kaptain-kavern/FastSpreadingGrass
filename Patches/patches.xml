@@ -10,12 +10,6 @@
 					<reproduceMtbDays>1</reproduceMtbDays>
 				</value>
 			</li>
-			<li Class="PatchOperationReplace">
-				<xpath>Defs/ThingDef[defName = "PlantTallGrass"]/plant/reproduceMtbDays</xpath>
-				<value>
-					<reproduceMtbDays>2</reproduceMtbDays>
-				</value>
-			</li>
 		</operations>
 	</Operation>
 	
