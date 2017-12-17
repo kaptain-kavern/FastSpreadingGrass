@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/kaptain-kavern/FastSpreadingGrass/releases/latest)
+[![Github Releases](https://img.shields.io/github/downloads/kaptain-kavern/FastSpreadingGrass/total.svg)](https://github.com/kaptain-kavern/FastSpreadingGrass/releases/latest)
 
 # FastSpreadingGrass
 <p align="center"><img src="https://raw.githubusercontent.com/kaptain-kavern/FastSpreadingGrass/master/About/Preview.png" alt="Preview"/></p>
