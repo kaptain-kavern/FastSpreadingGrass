@@ -1,4 +1,4 @@
-[![Version](https://img.shields.io/badge/Rimworld-B18-orange.svg?style=for-the-badge)](https://ludeon.com/forums/index.php?topic=22120)
+[![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)](https://github.com/kaptain-kavern/FastSpreadingGrass/releases/latest)
 
 # FastSpreadingGrass
 <p align="center"><img src="https://raw.githubusercontent.com/kaptain-kavern/FastSpreadingGrass/master/About/Preview.png" alt="Preview"/></p>
